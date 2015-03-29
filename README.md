@@ -1,17 +1,17 @@
-Distroshare Ubuntu Imager
+SemiCode OS Redistibution Wizard
 =========================
 
-This project is brought to you by distroshare.com.  Distroshare.com is 
-a new site for sharing customized open source operating system distributions.  
+This project is brought to you by semicode.org ,  SemiCode OS is 
+a new Linuk Distro for Programmers & Developers.  
 Too often do users need to customize open source operating systems, 
-such as Ubuntu, to work correctly on their machines.  By distributing 
-a custom Ubuntu distro with the kinks worked out for your machine, you 
-would be helping others to run Ubuntu if they have the same machine.
+such as SemiCode OS, to work correctly on their machines.  By distributing 
+a custom SemiCode OS distro with the kinks worked out for your machine, you 
+would be helping others to run SemiCode OS if they have the same machine.
 
 
 
-Distroshare Ubuntu Imager creates an installable Live ISO from an installed 
-Ubuntu or derivative distribution.
+SemiCode OS Redistibution Wizard creates an installable Live ISO from an installed 
+SemiCode OS or derivative distribution.
 
 It is a bash script, similar to Remastersys and its forks.  The script is 
 based on this tutorial: https://help.ubuntu.com/community/MakeALiveCD/DVD/BootableFlashFromHarddiskInstall. 
